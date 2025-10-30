@@ -1,4 +1,19 @@
-# Donation DApp
+# Donation Platform
+
+A decentralized donation platform built with blockchain technology.
+
+## Features
+- Create donation campaigns
+- Make donations using cryptocurrency
+- Track donation progress
+- Transparent and secure transactions
+
+## Technology Stack
+- React.js
+- Solidity
+- Hardhat
+- Web3.js
+- Tailwind CSS
 
 A decentralized application for creating and donating to crowdfunding campaigns on the Base network.
 
